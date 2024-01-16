@@ -52,3 +52,9 @@
 <img src="https://binaryterms.com/wp-content/uploads/2021/12/Deterministic-Finite-Automata.jpg" width="30%" height="30%" > <br/>
      -->  In this chapter, we will learn about one of the computational modelling methods, which is finite state machine. The purpose of the chapter is to learn about the ways to to ensure the computer can perform the task after the tasks wrer carried out. Besides that, we also able to learn about one of two parts of finite state machice, which are machine without output, called Deterministic Finite Automata and the ways to carry it out.
 </details>
+
+
+
+
+## Reflection
+From the Discrete Sturcture course, I have learned many valuable knowledges about calculations and construction of graphs that are essential for us as a data engineering student to learn about. Besides that, we also learned about function, relation and set theory that involed some algorithm thinking. Overall, the course had given us some valuable insight about mathematical foundation of computer science.
